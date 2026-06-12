@@ -1,0 +1,4 @@
+playwright==1.41.2
+requests==2.31.0
+boto3==1.34.34
+yt-dlp==2024.3.10
